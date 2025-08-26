@@ -34,7 +34,7 @@ This Bash script automates the essential setup of penetration testing tools on a
 ### 1. Clone the Repository
 ```bash
 git clone  (https://github.com/darkworld-king/Cyber-Security-offensive-Tool.git)
-cd ParrotOS_Tools_offensive
+cd Cyber-Security-offensive-Tool
 
 ```
 
