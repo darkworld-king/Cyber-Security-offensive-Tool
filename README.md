@@ -22,7 +22,8 @@ This Bash script automates the essential setup of penetration testing tools on a
 ## 📸 Terminal Preview
 
 > 📷 **Screenshot Here**  
-> *![image](https://github.com/user-attachments/assets/31615e19-0e5b-41ad-ace6-278baa21cba3)*
+> *![image](https://github.com/user-attachments/assets/176ff0a1-714a-4dda-9f92-6a8de57d95c6)*
+
 
 
 ---
